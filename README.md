@@ -14,6 +14,8 @@
 
 [<img align="left" alt="Waliiya Rizwan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Waliiya Rizwan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" />][medium]
+[<img align="left" alt="Waliiya Rizwan | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][gmail]
+
 
 <br />
 
@@ -47,5 +49,6 @@
 
 [linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000
+[gmail]: waliyarizwan000@gmail.com
 
 ---

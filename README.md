@@ -9,6 +9,8 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to write !
 
+<img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="50px" image align = "left">
+
 
 ### Github Stats
 <a href="https://github.com/WaliiyaRizwan/WaliiyaRizwan">

@@ -25,7 +25,7 @@
 
 ---
 
-### Github Stats
+### Github Stats:
 <a href="https://github.com/WaliiyaRizwan/WaliiyaRizwan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaliiyaRizwan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -46,14 +46,13 @@
 
 <br />
 
----
 
 [linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000
 [gmail]: waliyarizwan000@gmail.com
 
 ---
-### 📕 Latest Blog Posts
+### 📕 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Data, People and ideas: the new gold for a developing nation](https://medium.com/@waliyarizwan000/data-people-and-ideas-the-new-gold-for-a-developing-nation-78bf92871a24)

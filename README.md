@@ -32,17 +32,6 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Data, People and ideas: the new gold for a developing nation](https://medium.com/@waliyarizwan000/data-people-and-ideas-the-new-gold-for-a-developing-nation-78bf92871a24)
-
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@waliyarizwan000)
-
----
-
 [linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000
 [gmail]: waliyarizwan000@gmail.com
@@ -55,3 +44,13 @@
 <a href="https://github.com/WaliiyaRizwan/WaliiyaRizwan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaliiyaRizwan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Waliiya's GitHub Stats" />
 </a>
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Data, People and ideas: the new gold for a developing nation](https://medium.com/@waliyarizwan000/data-people-and-ideas-the-new-gold-for-a-developing-nation-78bf92871a24)
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@waliyarizwan000)

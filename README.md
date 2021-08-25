@@ -12,7 +12,7 @@
 ---
 <br />
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 [<img align="left" alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
 [<img align="left" alt="CSS3" width="45x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
@@ -25,7 +25,7 @@
 
 ---
 
-### Github Stats:
+### &#x1f4c8; Github Stats:
 <a href="https://github.com/WaliiyaRizwan/WaliiyaRizwan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaliiyaRizwan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
@@ -52,7 +52,7 @@
 [gmail]: waliyarizwan000@gmail.com
 
 ---
-### 📕 Latest Blog Posts:
+### &#x270d; Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
 - [Data, People and ideas: the new gold for a developing nation](https://medium.com/@waliyarizwan000/data-people-and-ideas-the-new-gold-for-a-developing-nation-78bf92871a24)

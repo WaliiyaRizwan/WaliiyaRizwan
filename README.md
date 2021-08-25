@@ -3,13 +3,15 @@
 
 ## I'm a Pakistani, Data Science enthusiast, Computer Systems Engineer and a student !!
 <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="500px" image align = "right">
+
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to write !
 
-
+---
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]

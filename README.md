@@ -1,8 +1,7 @@
-### Hi there, I'm Waliiya Rizwan 👋
+### Hi there, I'm Waliiya Rizwan <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/wave.gif" width="30px">
 
 
 ## I'm a Pakistani, Data Science enthusiast, Computer Systems Engineer and a student !!
-<img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate with other content creators

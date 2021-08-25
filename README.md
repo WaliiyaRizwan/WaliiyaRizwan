@@ -27,11 +27,11 @@
 
 ### Github Stats
 <a href="https://github.com/WaliiyaRizwan/WaliiyaRizwan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaliiyaRizwan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaliiyaRizwan&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30329A&langs_count=3" />
 </a>
 
 <a href="https://github.com/WaliiyaRizwan/WaliiyaRizwan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaliiyaRizwan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Waliiya's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaliiyaRizwan&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=30329A" alt="Waliiya's GitHub Stats" />
 </a>
 
 ---

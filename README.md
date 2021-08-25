@@ -2,7 +2,7 @@
 
 
 ## I'm a Pakistani, Data Science enthusiast, Computer Systems Engineer and a student !!
-<img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="450px" image align = "right">
+<img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/wave.gif" width="30px">
 
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate with other content creators

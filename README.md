@@ -50,5 +50,5 @@
 [gmail]: waliyarizwan000@gmail.com
 
 ---
-## Github stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<USERNAME>&theme=<THEME_NAME>" />
+## Top Languages
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<USERNAME>&theme=<THEME_NAME>" />

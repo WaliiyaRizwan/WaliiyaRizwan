@@ -45,7 +45,7 @@
 
 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000
 
 ---

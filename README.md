@@ -39,6 +39,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@waliyarizwan000)
+
 ---
 [linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000

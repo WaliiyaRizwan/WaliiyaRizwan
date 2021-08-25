@@ -29,6 +29,7 @@
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />]
 
 <br />
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -41,6 +42,7 @@
 ➡️ [more blog posts...](https://medium.com/@waliyarizwan000)
 
 ---
+
 [linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000
 [gmail]: waliyarizwan000@gmail.com

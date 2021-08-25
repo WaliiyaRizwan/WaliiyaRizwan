@@ -45,10 +45,10 @@
 
 ---
 
-
-
 [linkedin]: https://www.linkedin.com/in/waliiya-rizwan-4b3b411b9/
 [medium]: https://medium.com/@waliyarizwan000
 [gmail]: waliyarizwan000@gmail.com
 
 ---
+## Github stats
+<img align="center" src="https://github-readme-stats.vercel.app/api/<>/?username=<USERNAME>&theme=<THEME_NAME>" />

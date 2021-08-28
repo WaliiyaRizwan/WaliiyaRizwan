@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="450px" img align = "right">
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects 
+- 🥅 Goals: Contribute more to Open Source projects 
 - ⚡ Fun fact: I love to write !
 
 

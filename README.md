@@ -1,7 +1,7 @@
 ### Hi there, I'm Waliiya Rizwan <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/wave.gif" width="30px">
 
 
-## I'm a Pakistani, Data Science enthusiast, Computer Systems Engineer and a student !!
+## I'm a Pakistani, Microsoft Learn Student Ambassador, Computer Systems Engineer and a happy learner :) !!
 <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="450px" img align = "right">
 - 🌱 I’m currently learning data science 
 - 👯 I’m looking to collaborate with other content creators

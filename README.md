@@ -1,4 +1,4 @@
-### Hi there, I'm Waliiya Rizwan <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/wave.gif" width="30px">
+### Hi there, I'm Waliiya Rizwan <img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/wave.gif" width="10px">
 
 
 ## I'm a Pakistani, Microsoft Learn Student Ambassador, Computer Systems Engineer and a happy learner :) !!

@@ -2,7 +2,7 @@
 
 
 ## I'm a Pakistani, Microsoft Learn Student Ambassador, Computer Systems Engineer and a happy learner :) !!
-<img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="450px" img align = "right">
+<img src="https://raw.githubusercontent.com/WaliiyaRizwan/WaliiyaRizwan/master/computer-flat-design.gif" width="30px" img align = "right">
 - 🌱 I’m currently studying computer systems engineering 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 Goals: Contribute more to Open Source projects 

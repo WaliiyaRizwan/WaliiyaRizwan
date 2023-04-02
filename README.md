@@ -63,7 +63,7 @@
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=WaliiyaRizwan&" /></p>
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?WaliiyaRizwan)](https://github.com/WaliiyaRizwan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaliiyaRizwan)](https://github.com/WaliiyaRizwan/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=WaliiyaRizwan&color=red&label=Profile+Views)

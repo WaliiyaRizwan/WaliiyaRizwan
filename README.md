@@ -59,6 +59,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliiyaRizwan&show_icons=true)
 
+---
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=WaliiyaRizwan&" /></p>
 
 
 ![](https://komarev.com/ghpvc/?username=WaliiyaRizwan&color=red&label=Profile+Views)

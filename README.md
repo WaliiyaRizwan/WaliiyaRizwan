@@ -56,3 +56,9 @@
 ➡️ [more blog posts...](https://medium.com/@waliyarizwan000)
 
 ---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliiyaRizwan&show_icons=true)
+
+
+
+![](https://komarev.com/ghpvc/?username=WaliiyaRizwan&color=red&label=Profile+Views)

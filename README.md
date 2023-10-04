@@ -57,10 +57,6 @@
 ➡️ [more blog posts...](https://medium.com/@waliyarizwan000)
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=WaliiyaRizwan&show_icons=true)
-
----
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=WaliiyaRizwan&" /></p>
 
 ---

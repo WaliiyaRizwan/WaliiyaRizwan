@@ -65,4 +65,4 @@
 
 ![](https://komarev.com/ghpvc/?username=WaliiyaRizwan&color=red&label=Profile+Views)
 
-[website]: https://alpha.puppydog.io/
+[website]: https://www.puppydog.io/
